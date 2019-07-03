@@ -3,7 +3,7 @@
 To get started, clone this repo as whatever you want to name your app:
 
 ```
-git clone https://github.com/phucluke/framework7-template-react/ my-app
+git clone https://github.com/phucluke/framework7-template-react-/ my-app
 ```
 
 ## Install
